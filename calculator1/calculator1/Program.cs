@@ -13,13 +13,13 @@ namespace calculator1
             if (x1 < 0)
             {
                 Console.Write("please, add first number:");
-               x1 = Convert.ToInt32(Console.ReadLine());
+                x1 = Convert.ToInt32(Console.ReadLine());
             }
             Console.Write("please, add Second number:");
             int x2 = Convert.ToInt32(Console.ReadLine());
             if (x2 < 0)
             {
-                Console.Write("please, add first number:");
+                Console.Write("please, add second number:");
                 x1 = Convert.ToInt32(Console.ReadLine());
             }
 
@@ -52,12 +52,36 @@ namespace calculator1
                 Console.WriteLine((x1 - x2) + " result");
             }
             else if (symbol == '/')
+
             {
+                if (x2 == 0)
+                {
+                    Console.WriteLine("eror! can't write 0 ");
+                }
+
                 Console.WriteLine((x1 / x2) + " Result");
             }
             else if (symbol == '*')
             {
                 Console.WriteLine((x1 * x2) + " Result");
+            }
+
+            else if (symbol == '^' && x2 == 2)
+            {
+                Console.WriteLine(x1 * x1);
+            }
+            else if (symbol == '^' && x2 == 3)
+            {
+                Console.WriteLine(x1 * x1 * x1);
+            }
+            else if (symbol == '^' && x2 == 4)
+            {
+                Console.WriteLine(x1 * x1 * x1 * x1);
+
+            }
+            else if(symbol == '%')
+            {
+                Console.WriteLine(x1%x2);
             }
 
 
