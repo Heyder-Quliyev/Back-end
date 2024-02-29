@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D0415FB-4D56-41EE-956E-DA8EF52BB011}|library\\library.csproj|c:\\users\\acer\\desktop\\backend\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0415FB-4D56-41EE-956E-DA8EF52BB011}|library\\library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\library\\library\\Program.cs",
+              "RelativeDocumentMoniker": "library\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\library\\library\\Program.cs",
+              "RelativeToolTip": "library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:23:10.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\library\library\bin\Debug\library.exe.config
+C:\Users\Acer\Desktop\backend\library\library\bin\Debug\library.exe
+C:\Users\Acer\Desktop\backend\library\library\bin\Debug\library.pdb
+C:\Users\Acer\Desktop\backend\library\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\library\library\obj\Debug\library.exe
+C:\Users\Acer\Desktop\backend\library\library\obj\Debug\library.pdb

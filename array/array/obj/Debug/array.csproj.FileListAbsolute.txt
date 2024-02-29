@@ -1,7 +1,0 @@
-C:\Users\Acer\source\repos\array\array\obj\Debug\array.csproj.AssemblyReference.cache
-C:\Users\Acer\source\repos\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
-C:\Users\Acer\source\repos\array\array\bin\Debug\array.exe.config
-C:\Users\Acer\source\repos\array\array\bin\Debug\array.exe
-C:\Users\Acer\source\repos\array\array\bin\Debug\array.pdb
-C:\Users\Acer\source\repos\array\array\obj\Debug\array.exe
-C:\Users\Acer\source\repos\array\array\obj\Debug\array.pdb
