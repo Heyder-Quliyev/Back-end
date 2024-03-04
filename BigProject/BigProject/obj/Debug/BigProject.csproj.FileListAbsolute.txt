@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\bin\Debug\BigProject.exe.config
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\bin\Debug\BigProject.exe
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\bin\Debug\BigProject.pdb
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\obj\Debug\BigProject.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\obj\Debug\BigProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\obj\Debug\BigProject.exe
+C:\Users\Acer\Desktop\backend\BigProject\BigProject\obj\Debug\BigProject.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\Market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|c:\\users\\acer\\desktop\\backend\\market\\market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|solutionrelative:market\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|C:\\Users\\Acer\\Desktop\\backend\\Market\\market\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|solutionrelative:market\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|C:\\Users\\Acer\\Desktop\\backend\\Market\\market\\inventory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C8D592-DC16-4B41-AF3B-A4D509E97A09}|Market\\Market.csproj|solutionrelative:market\\inventory .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory .cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Inventory .cs",
+              "RelativeDocumentMoniker": "Market\\Inventory .cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Inventory .cs",
+              "RelativeToolTip": "Market\\Inventory .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:41:49.529Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Product.cs",
+              "RelativeDocumentMoniker": "Market\\Product.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Product.cs",
+              "RelativeToolTip": "Market\\Product.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:15:48.483Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Program.cs",
+              "RelativeDocumentMoniker": "Market\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\Market\\Market\\Program.cs",
+              "RelativeToolTip": "Market\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T21:14:27.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

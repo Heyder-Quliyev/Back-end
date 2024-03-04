@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\bin\Debug\Inheritange.exe.config
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\bin\Debug\Inheritange.exe
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\bin\Debug\Inheritange.pdb
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\obj\Debug\Inheritange.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\obj\Debug\Inheritange.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\obj\Debug\Inheritange.exe
+C:\Users\Acer\Desktop\backend\Inheritange\Inheritange\obj\Debug\Inheritange.pdb
