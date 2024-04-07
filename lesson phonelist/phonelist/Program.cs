@@ -11,7 +11,7 @@ namespace phonelist
     {
         static void Main(string[] args)
         {
-            ArrayList phone = new ArrayList ();
+            ArrayList phone = new ArrayList();
             phone.Add(new { name = " ", model = " ", storage = " ", version = " " });
             bool exit = true;
 
@@ -29,9 +29,9 @@ namespace phonelist
                 char operation = Convert.ToChar(Console.ReadLine());
                 switch (operation)
                 {
-case '1':
+                    case '1':
                         Console.WriteLine("How many phones do you want to add?");
-                        int count= Convert.ToInt32(Console.ReadLine());
+                        int count = Convert.ToInt32(Console.ReadLine());
                         for (int i = 0; i < count; i++)
                         {
 
@@ -45,54 +45,42 @@ case '1':
                             string phoneChargeLife = Console.ReadLine();
                             Console.WriteLine("camera features: ");
                             string phoneCamera = Console.ReadLine();
-
-
                         }
 
                         break;
-
 
                     case '2':
 
                         foreach (dynamic item in phone)
                         {
                             Console.WriteLine("name" + item.name, "\n model" + item.model, "\n version" + item.version, "\n camera" + item.camera + "\n");
-
-
                         }
-
                         break;
 
                     case '3':
 
-                        bool find=false;
+                        bool find = false;
                         Console.WriteLine("please, enter phone name");
-                        string name= Console.ReadLine();
+                        string name = Console.ReadLine();
                         foreach (dynamic item in phone)
                         {
-                            if(item.name == name)
-                                {
+                            if (item.name == name)
+                            {
                                 phone.Remove(item);
                                 find = true;
                                 Console.WriteLine("Delete Phone");
                                 break;
                             }
-
                         }
-
                         if (!find)
-                        { 
-                            Console.WriteLine("Not Found") ; 
+                        {
+                            Console.WriteLine("Not Found");
                         }
-
-
                         break;
-
-
 
                     case '4':
 
-                        bool  search= false;
+                        bool search = false;
                         Console.WriteLine("Search Phone");
                         string search_phone = Console.ReadLine();
 
@@ -111,7 +99,45 @@ case '1':
                         }
                         break;
 
+                    case '5':
 
+                        bool boolFound = false;
+                        Console.WriteLine("Please, edit");
+                        string editModel = Console.ReadLine();
+
+                        foreach (dynamic item in phone)
+                        {
+                            if (item.name == editModel)
+                            {
+                                Console.WriteLine("Please, enter new name");
+                                string newName = Console.ReadLine();
+                                item.name = newName;
+                                Console.WriteLine("new name: " + item.name);
+
+                                Console.WriteLine("Please, add new gender");
+                                string newModel = Console.ReadLine();
+                                item.studentGender = newModel;
+                                Console.WriteLine("new gender: " + item.phoneModel);
+
+                                Console.WriteLine("Please new age");
+                                int newVersion = Convert.ToInt32(Console.ReadLine());
+                                item.version = newVersion;
+                                Console.WriteLine("new age: " + item.phoneVersion);
+
+                                Console.WriteLine("Please, add new number");
+                                string newCamera = Console.ReadLine();
+                                item.camera = newCamera;
+                                Console.WriteLine("new nuber: " + item.phoneCamera);
+
+                                boolFound = true;
+                                break;
+                            }
+                        }
+                        if (!boolFound)
+                        {
+                            Console.WriteLine("not found");
+                        }
+                        break;
 
                     case '6':
 
@@ -119,9 +145,9 @@ case '1':
                         Console.WriteLine("Exited");
 
                         break;
-}
-            }
+                }
 
+            }
         }
     }
 }

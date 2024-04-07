@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\LastTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E7538B-075F-48A6-AA05-53BD0400F5CF}|LastTask\\LastTask.csproj|c:\\users\\acer\\desktop\\backend\\lasttask\\lasttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E7538B-075F-48A6-AA05-53BD0400F5CF}|LastTask\\LastTask.csproj|solutionrelative:lasttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\LastTask\\LastTask\\Program.cs",
+              "RelativeDocumentMoniker": "LastTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\LastTask\\LastTask\\Program.cs",
+              "RelativeToolTip": "LastTask\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:19:28.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

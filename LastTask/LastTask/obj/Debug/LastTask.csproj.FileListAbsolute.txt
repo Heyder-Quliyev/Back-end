@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\bin\Debug\LastTask.exe.config
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\bin\Debug\LastTask.exe
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\bin\Debug\LastTask.pdb
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\obj\Debug\LastTask.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\obj\Debug\LastTask.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\obj\Debug\LastTask.exe
+C:\Users\Acer\Desktop\backend\LastTask\LastTask\obj\Debug\LastTask.pdb

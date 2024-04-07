@@ -22,8 +22,8 @@ namespace phones
             brands.Add(5, "huawei");
             while (true)
             {
-                Console.WriteLine("1. Please, Add Phone Brand: ");
-                Console.WriteLine("2. Please, Add Phone: ");
+                Console.WriteLine("1. Please, Add Phone Brand Name: ");
+                Console.WriteLine("2. Please, Add Phone Name: ");
                 Console.WriteLine("3. As to Information Phone: ");
                 Console.WriteLine("Which do you want phone?");
                 int number = Convert.ToInt32(Console.ReadLine());

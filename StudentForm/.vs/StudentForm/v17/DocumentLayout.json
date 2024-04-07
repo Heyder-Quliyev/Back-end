@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|c:\\users\\acer\\desktop\\backend\\studentform\\studentform\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\studentform\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{568C3CDB-5191-49BE-BEFD-EEA26B99DE25}|StudentForm\\StudentForm.csproj|solutionrelative:studentform\\show.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Show.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Show.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Show.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Show.cs",
+              "RelativeToolTip": "StudentForm\\Show.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:19:27.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Show.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Show.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Show.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Show.cs [Design]",
+              "RelativeToolTip": "StudentForm\\Show.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:18:43.534Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Student.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Student.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Student.cs",
+              "RelativeToolTip": "StudentForm\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T12:00:23.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Add.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Add.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Add.cs*",
+              "RelativeToolTip": "StudentForm\\Add.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:51:43.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Add.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Add.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Add.cs [Design]*",
+              "RelativeToolTip": "StudentForm\\Add.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:47:51.295Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Form1.cs",
+              "RelativeToolTip": "StudentForm\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:40:19.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\StudentForm\\StudentForm\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:39:55.089Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

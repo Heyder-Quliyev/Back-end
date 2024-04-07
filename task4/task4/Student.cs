@@ -25,8 +25,6 @@ namespace task4
             GroupNo = number;
 
         }
-
-
         public int GetBrithYear()
 
         {
@@ -35,11 +33,6 @@ namespace task4
         }
     }
 
-
-
-
-
-
     internal class Account
     {
         public int No;
@@ -47,40 +40,14 @@ namespace task4
         public string userName;
         public string password;
 
-
         int no = 1;
-
         public Account(string userName, string password)
         {
             userName = userName;
             password = password;
 
-
             No = no;
             no++;
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    }
+     }
 }

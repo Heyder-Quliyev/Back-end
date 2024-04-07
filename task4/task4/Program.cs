@@ -21,7 +21,7 @@ namespace task4
             students.Add(student1);
             students.Add(student2);
             students.Add(student3);
-            GetStudent("");
+            GetStudent();
 
 
         }

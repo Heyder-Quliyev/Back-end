@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.Form1.resources
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.Add.resources
+C:\Users\Acer\Desktop\backend\StudentForm\StudentForm\obj\Debug\StudentForm.Show.resources

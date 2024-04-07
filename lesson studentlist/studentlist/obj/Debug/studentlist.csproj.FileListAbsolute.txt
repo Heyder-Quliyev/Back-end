@@ -5,3 +5,7 @@ C:\Users\Acer\Desktop\backend\studentlist\studentlist\obj\Debug\studentlist.cspr
 C:\Users\Acer\Desktop\backend\studentlist\studentlist\obj\Debug\studentlist.csproj.CoreCompileInputs.cache
 C:\Users\Acer\Desktop\backend\studentlist\studentlist\obj\Debug\studentlist.exe
 C:\Users\Acer\Desktop\backend\studentlist\studentlist\obj\Debug\studentlist.pdb
+C:\Users\Acer\Desktop\backend\lesson studentlist\studentlist\obj\Debug\studentlist.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\lesson studentlist\studentlist\obj\Debug\studentlist.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\lesson studentlist\studentlist\obj\Debug\studentlist.exe
+C:\Users\Acer\Desktop\backend\lesson studentlist\studentlist\obj\Debug\studentlist.pdb

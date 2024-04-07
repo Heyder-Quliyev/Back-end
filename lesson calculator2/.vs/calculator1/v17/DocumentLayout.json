@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\calculator1\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\lesson calculator2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{198D175E-064C-4D88-AE27-0587284B6856}|calculator1\\calculator1.csproj|c:\\users\\acer\\desktop\\backend\\calculator1\\calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{198D175E-064C-4D88-AE27-0587284B6856}|calculator1\\calculator1.csproj|c:\\users\\acer\\desktop\\backend\\lesson calculator2\\calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{198D175E-064C-4D88-AE27-0587284B6856}|calculator1\\calculator1.csproj|solutionrelative:calculator1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\calculator1\\calculator1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\lesson calculator2\\calculator1\\Program.cs",
               "RelativeDocumentMoniker": "calculator1\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\calculator1\\calculator1\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\lesson calculator2\\calculator1\\Program.cs",
               "RelativeToolTip": "calculator1\\Program.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAkwC8AAAAMAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-19T10:24:49.2Z",
               "EditorCaption": ""

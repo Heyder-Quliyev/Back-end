@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\obj\Debug\ecopsulation.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\obj\Debug\ecopsulation.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\bin\Debug\ecopsulation.exe.config
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\bin\Debug\ecopsulation.exe
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\bin\Debug\ecopsulation.pdb
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\obj\Debug\ecopsulation.exe
+C:\Users\Acer\Desktop\backend\ecopsulation\ecopsulation\obj\Debug\ecopsulation.pdb

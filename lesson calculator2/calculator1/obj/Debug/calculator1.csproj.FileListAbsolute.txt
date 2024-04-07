@@ -5,3 +5,10 @@ C:\Users\Acer\Desktop\backend\calculator1\calculator1\obj\Debug\calculator1.cspr
 C:\Users\Acer\Desktop\backend\calculator1\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
 C:\Users\Acer\Desktop\backend\calculator1\calculator1\obj\Debug\calculator1.exe
 C:\Users\Acer\Desktop\backend\calculator1\calculator1\obj\Debug\calculator1.pdb
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\bin\Debug\calculator1.exe.config
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\bin\Debug\calculator1.exe
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\bin\Debug\calculator1.pdb
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\obj\Debug\calculator1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\obj\Debug\calculator1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\obj\Debug\calculator1.exe
+C:\Users\Acer\Desktop\backend\lesson calculator2\calculator1\obj\Debug\calculator1.pdb

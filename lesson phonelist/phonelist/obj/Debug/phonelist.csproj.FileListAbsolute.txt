@@ -5,3 +5,10 @@ C:\Users\Acer\Desktop\backend\phonelist\phonelist\bin\Debug\phonelist.exe
 C:\Users\Acer\Desktop\backend\phonelist\phonelist\bin\Debug\phonelist.pdb
 C:\Users\Acer\Desktop\backend\phonelist\phonelist\obj\Debug\phonelist.exe
 C:\Users\Acer\Desktop\backend\phonelist\phonelist\obj\Debug\phonelist.pdb
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\bin\Debug\phonelist.exe.config
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\bin\Debug\phonelist.exe
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\bin\Debug\phonelist.pdb
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\obj\Debug\phonelist.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\obj\Debug\phonelist.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\obj\Debug\phonelist.exe
+C:\Users\Acer\Desktop\backend\lesson phonelist\phonelist\obj\Debug\phonelist.pdb

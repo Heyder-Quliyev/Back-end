@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\phonelist\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\lesson phonelist\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89AE115D-4819-47CA-B233-E300360736C7}|phonelist\\phonelist.csproj|c:\\users\\acer\\desktop\\backend\\phonelist\\phonelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89AE115D-4819-47CA-B233-E300360736C7}|phonelist\\phonelist.csproj|c:\\users\\acer\\desktop\\backend\\lesson phonelist\\phonelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89AE115D-4819-47CA-B233-E300360736C7}|phonelist\\phonelist.csproj|solutionrelative:phonelist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\phonelist\\phonelist\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\lesson phonelist\\phonelist\\Program.cs",
               "RelativeDocumentMoniker": "phonelist\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\phonelist\\phonelist\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\lesson phonelist\\phonelist\\Program.cs",
               "RelativeToolTip": "phonelist\\Program.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwG0AAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T19:40:14.019Z",
               "EditorCaption": ""

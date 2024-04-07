@@ -1,7 +1,0 @@
-C:\Users\Acer\Desktop\backend\Market\Market\obj\Debug\Market.csproj.AssemblyReference.cache
-C:\Users\Acer\Desktop\backend\Market\Market\obj\Debug\Market.csproj.CoreCompileInputs.cache
-C:\Users\Acer\Desktop\backend\Market\Market\bin\Debug\Market.exe.config
-C:\Users\Acer\Desktop\backend\Market\Market\bin\Debug\Market.exe
-C:\Users\Acer\Desktop\backend\Market\Market\bin\Debug\Market.pdb
-C:\Users\Acer\Desktop\backend\Market\Market\obj\Debug\Market.exe
-C:\Users\Acer\Desktop\backend\Market\Market\obj\Debug\Market.pdb

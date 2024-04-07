@@ -16,6 +16,20 @@ namespace Inheritange
 
         }
 
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override bool GmailChecker(string email)
+        {
+            throw new NotImplementedException();
+        }
 
         public override bool PasswordChecker(string password)
         {
@@ -65,9 +79,14 @@ namespace Inheritange
 
         }
 
+        public override void ShowInfo()
+        {
+            base.ShowInfo();
+        }
 
-
-
-
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }

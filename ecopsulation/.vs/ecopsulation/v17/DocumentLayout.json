@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\schoolperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|solutionrelative:ecopsulation\\schoolperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|solutionrelative:ecopsulation\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|c:\\users\\acer\\desktop\\backend\\ecopsulation\\ecopsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|solutionrelative:ecopsulation\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7BAD1F0-47E3-4AEC-B816-2D100F26D9EA}|ecopsulation\\ecopsulation.csproj|solutionrelative:ecopsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Student.cs",
+              "RelativeDocumentMoniker": "ecopsulation\\Student.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Student.cs",
+              "RelativeToolTip": "ecopsulation\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:12:14.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Teacher.cs",
+              "RelativeDocumentMoniker": "ecopsulation\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Teacher.cs",
+              "RelativeToolTip": "ecopsulation\\Teacher.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T12:12:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\SchoolPerson.cs",
+              "RelativeDocumentMoniker": "ecopsulation\\SchoolPerson.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\SchoolPerson.cs",
+              "RelativeToolTip": "ecopsulation\\SchoolPerson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:22:25.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Program.cs",
+              "RelativeDocumentMoniker": "ecopsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\ecopsulation\\ecopsulation\\Program.cs",
+              "RelativeToolTip": "ecopsulation\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T11:21:17.567Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\task2\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\backend\\task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{826F167B-FE07-479F-96CF-1B2FC265F08F}|task2\\task2.csproj|c:\\users\\acer\\source\\repos\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{826F167B-FE07-479F-96CF-1B2FC265F08F}|task2\\task2.csproj|c:\\users\\acer\\desktop\\backend\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{826F167B-FE07-479F-96CF-1B2FC265F08F}|task2\\task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\task2\\task2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\backend\\task2\\task2\\Program.cs",
               "RelativeDocumentMoniker": "task2\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\task2\\task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\backend\\task2\\task2\\Program.cs",
               "RelativeToolTip": "task2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAABSAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T10:54:45.839Z",
               "EditorCaption": ""
